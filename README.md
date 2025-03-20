@@ -59,7 +59,10 @@ CREATE TABLE registation (
 );
 Update the database connection details in the code (host, user, password, database) as per your local setup.
 
-Run the script: python employee_management_sys.py
+
+Run the script: 
+
+python employee_management_sys.py
 
 
 🖥️ How It Works
