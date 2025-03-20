@@ -36,7 +36,7 @@ root.mainloop()
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/employee_management_system.git
+git clone https://github.com/ramcharan118/employee_management_system.git
 ```
 
 2. Navigate to the project directory:
@@ -68,7 +68,7 @@ cd employee_management_system
 
 6. Run the script:
 ```bash
-python employee_management_system.py
+python employee_management_sys.py
 ```
 
 ## Contributing
