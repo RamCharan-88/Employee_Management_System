@@ -51,18 +51,20 @@ Create a database named abc_123.
 Add a table named registation with the following structure:
 
 sql
+
 CREATE TABLE registation (
     id INT PRIMARY KEY,
     empname VARCHAR(100),
     mobile VARCHAR(15),
     salary FLOAT
 );
+
 Update the database connection details in the code (host, user, password, database) as per your local setup.
 
 
 Run the script: 
 
-python employee_management_sys.py
+python EmployeeManagementSystem.py
 
 
 🖥️ How It Works
